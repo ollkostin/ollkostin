@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Vladimir 👋
 
 ☕️ I have been developing Java based applications since 2017. There were systems for internal usage mostly : document flow systems, administration panels, workstation interfaces. Passed Oracle Associate certification in 2019.
 
