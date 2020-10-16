@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+☕️ I have been developing Java based applications since 2017. There were systems for internal usage mostly : document flow systems, administration panels, workstation interfaces. Passed Oracle Associate certification in 2019.
+
+🧩 I have some experience in Python, Javascript, and in mobile application development: Swift, Kotlin and Flutter.
+
+🎩 I am not afraid of small team management (up to 5 people): task distribution and prioritizing, stand-up meetings organization.
+
+👀 I really want to try mentoring. I suppose that the best way to remember things is to explain them to others. 
+
 <!--
 **ollkostin/ollkostin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
