@@ -2,7 +2,7 @@
 
 ☕️ I have been developing Java based applications since 2017. There were systems for internal usage mostly : document flow systems, administration panels, workstation interfaces. Passed Oracle Associate certification in 2019.
 
-🧩 I have some experience in Python, Javascript, and in mobile application development: Swift, Kotlin and Flutter.
+🧩 I have some experience in Golang, Python, Javascript, and in mobile application development: Swift, Kotlin and Flutter.
 
 🎩 I am not afraid of small team management (up to 5 people): task distribution and prioritizing, stand-up meetings organization.
 
